@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Node.js
+node_modules/
+.next/
+dist/
+out/
+build/
+
+# Media temp folders
+temp/
+/backend/temp/
+/worker/temp/
+/backend/tests/temp_test/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
